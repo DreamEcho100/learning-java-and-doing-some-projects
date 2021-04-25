@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/dreamecho100/Desktop/Main/GitHub/DreamEcho100/learning-java-and-doing-some-projects/.metadata/.plugins/org.eclipse.jdt.core
+3810400474.index
+64897222.index
+3949366491.index

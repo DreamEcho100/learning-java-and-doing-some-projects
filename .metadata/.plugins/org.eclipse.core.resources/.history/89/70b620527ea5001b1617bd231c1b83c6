@@ -1,0 +1,24 @@
+import java.util.Scanner;;
+
+public class _3__UserInputs {
+
+	public static void main(String[] args) {
+		String name, age, food;
+
+		Scanner scanner = new Scanner(System.in);
+
+		System.out.println("What is your name?");
+		name = scanner.nextLine();
+
+		System.out.println("How old are you?");
+		age = scanner.nextLine();
+
+		System.out.println("What is your favourite food?");
+		food = scanner.nextLine();
+
+		System.out.print("Hello " + name);
+		System.out.print(", Your age is " + age);
+		System.out.print(" and your favourite food is " + food + ".");
+	}
+
+}
