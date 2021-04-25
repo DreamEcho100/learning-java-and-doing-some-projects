@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class _9__switch_statement {
 
 	public static void main(String[] args) {
-		// Switch statement:
-		// Statement that allows to be for equality against a list of values
+		// if statement:
+		// performs a block of code if it's condition evaluates to be true
 
 		String day;
 

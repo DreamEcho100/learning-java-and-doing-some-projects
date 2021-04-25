@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class _9__switch_statement {
+
+	public static void main(String[] args) {
+		// if statement:
+		// performs a block of code if it's condition evaluates to be true
+
+		String day;
+
+		Scanner scanner = new Scanner(System.in);
+
+		System.out.println("What's today in the week?:");
+		day = scanner.nextLine().toLowerCase();
+
+		scanner.close();
+
+		switch (day) {
+		case "saturday":
+			System.out.println("It's Saturday!");
+			break;
+
+		}
+	}
+
+}
