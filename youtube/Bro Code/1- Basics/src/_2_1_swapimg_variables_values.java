@@ -1,4 +1,3 @@
-package _1__basics;
 
 public class _2_1_swapimg_variables_values {
 

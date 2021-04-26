@@ -1,5 +1,3 @@
-package _1__basics;
-
 import javax.swing.JOptionPane;
 
 public class _5__simple_gui_application {

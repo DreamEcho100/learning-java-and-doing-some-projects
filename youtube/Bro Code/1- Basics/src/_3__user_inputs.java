@@ -1,5 +1,3 @@
-package _1__basics;
-
 import java.util.Scanner;
 
 public class _3__user_inputs {

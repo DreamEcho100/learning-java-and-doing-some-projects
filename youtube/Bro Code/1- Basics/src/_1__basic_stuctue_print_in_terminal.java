@@ -1,6 +1,5 @@
-package _1__basics;
 
-public class _1__BasicStuctuePrintInTerminal {
+public class _1__basic_stuctue_print_in_terminal {
 
 	public static void main(String[] args) {
 		System.out.println("\t\"I love pizza!\"");

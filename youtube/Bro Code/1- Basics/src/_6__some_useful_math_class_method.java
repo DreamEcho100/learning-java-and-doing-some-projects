@@ -1,5 +1,3 @@
-package _1__basics;
-
 import java.util.Scanner;
 
 public class _6__some_useful_math_class_method {
