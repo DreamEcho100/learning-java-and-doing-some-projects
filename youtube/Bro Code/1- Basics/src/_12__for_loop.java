@@ -3,6 +3,10 @@ import java.util.Scanner;
 public class _12__for_loop {
 
 	public static void main(String[] args) {
+		
+   		  // For loop:
+		  // Execute a block of code a limited amount of times
+		  //
 
 		  String number; String numberReversed = "";
 		  
@@ -71,7 +75,6 @@ public class _12__for_loop {
             System.out.println("\n" + a);
 		  
 		  scanner.close();
-			 
 
 	}
 
