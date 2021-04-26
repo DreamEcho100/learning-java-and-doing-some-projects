@@ -5,6 +5,7 @@ public class _9__switch_statement {
 	public static void main(String[] args) {
 		// Switch statement:
 		// Statement that allows to be for equality against a list of values
+		//
 
 		String day;
 

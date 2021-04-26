@@ -5,6 +5,7 @@ public class _8__if_statement {
 	public static void main(String[] args) {
 		// If statement:
 		// Performs a block of code if it's condition evaluates to be true
+		//
 
 		int age;
 

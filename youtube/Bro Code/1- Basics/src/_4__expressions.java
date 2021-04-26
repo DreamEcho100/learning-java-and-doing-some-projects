@@ -2,9 +2,15 @@
 public class _4__expressions {
 
 	public static void main(String[] args) {
-		// expression = operands & operators
-		// operands = values, variables, numbers, quantities
-		// operators = +, -, *, /, %
+		// Expression:
+		// Operands & operators
+		//
+		// Operands:
+		// Values, variables, numbers, quantities
+		//
+		// Operators:
+		// +, -, *, /, %
+		//
 		int friends = 10;
 
 		friends = friends - 1;
