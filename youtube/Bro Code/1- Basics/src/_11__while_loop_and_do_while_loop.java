@@ -6,7 +6,7 @@ public class _11__while_loop_and_do_while_loop {
 		// While loop:
 		// Executes a block of code as long it's condition remains true
 		//
-		
+	
 		String name = "";
 		
 		Scanner scanner = new Scanner(System.in);
