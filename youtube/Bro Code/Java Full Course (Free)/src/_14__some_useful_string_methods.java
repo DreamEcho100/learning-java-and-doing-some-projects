@@ -1,5 +1,5 @@
 
-public class _14__some_useful_string_mrthods {
+public class _14__some_useful_string_methods {
 
 	public static void main(String[] args) {
 		// String:

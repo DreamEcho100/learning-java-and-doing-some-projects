@@ -1,5 +1,5 @@
 
-public class _13__arraya {
+public class _13__arrays {
 
 	public static void main(String[] args) {
 		// Arrays:

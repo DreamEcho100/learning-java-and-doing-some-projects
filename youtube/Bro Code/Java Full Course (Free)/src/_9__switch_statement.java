@@ -39,7 +39,7 @@ public class _9__switch_statement {
 			System.out.println("It's Friday!");
 			break;
 		default:
-			System.out.println("That isn't a day!");
+			System.out.println("This is not a day!");
 			break;
 
 		}
