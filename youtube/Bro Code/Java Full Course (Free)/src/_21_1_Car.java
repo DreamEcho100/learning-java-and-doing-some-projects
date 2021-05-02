@@ -1,5 +1,5 @@
 
-public class _21_1_oop_car {
+public class _21_1_Car {
 	String make = "Chevrolet";
 	String model = "Corvette";
 	int year = 2020;
