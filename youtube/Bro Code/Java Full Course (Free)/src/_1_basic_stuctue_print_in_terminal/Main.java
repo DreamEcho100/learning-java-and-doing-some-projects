@@ -1,6 +1,6 @@
 package _1_basic_stuctue_print_in_terminal;
 
-public class index {
+public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("\t\"I love pizza!\"");

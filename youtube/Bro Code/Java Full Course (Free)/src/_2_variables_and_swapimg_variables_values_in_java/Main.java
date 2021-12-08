@@ -1,6 +1,6 @@
 package _2_variables_and_swapimg_variables_values_in_java;
 
-public class index {
+public class Main {
 
 	public static void main(String[] args) {
 		byte v = -126;

@@ -1,6 +1,6 @@
 package _30_method_overriding;
 
-public class index {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
