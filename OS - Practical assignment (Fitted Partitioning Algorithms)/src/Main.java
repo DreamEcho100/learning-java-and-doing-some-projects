@@ -1,7 +1,7 @@
 public class Main {
 	// A method that returns a new block array with a new reference
     static int[] blockSizeValue() {
-    	int blockSize[] = { 100, 500, 200, 300, 600 };
+    	int blockSize[] = { 185, 600, 350, 200, 750 };
 		return blockSize;
     }
 	
@@ -183,7 +183,7 @@ public class Main {
 
     
 	public static void main(String[] args) {
-		int processSize[] = { 212, 417, 112, 426 };
+		int processSize[] = { 246, 493, 121, 646 };
 
         // I use blockSizeValue method to create arrays
         // with same values but different reference,
